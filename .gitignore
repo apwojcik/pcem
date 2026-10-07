@@ -426,3 +426,5 @@ build-*/
 cmake-build-*/
 output/
 !.vs/launch.vs.json
+.idea/
+
